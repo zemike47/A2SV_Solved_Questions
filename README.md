@@ -28,4 +28,5 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
+| [2469-convert-the-temperature](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
