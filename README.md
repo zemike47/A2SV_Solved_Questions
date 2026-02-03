@@ -21,3 +21,11 @@ For each solved problem, the solution link and time taken are submitted to the r
 ---
 
 ✨ Consistency over speed. Growth over perfection.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
