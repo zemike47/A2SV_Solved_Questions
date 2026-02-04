@@ -28,6 +28,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [2413-smallest-even-multiple](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2469-convert-the-temperature) |
 ## Number Theory
@@ -39,6 +40,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
 |  |
@@ -52,12 +54,22 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
