@@ -38,6 +38,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0056-merge-intervals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 ## String
 |  |
 | ------- |
@@ -46,4 +47,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
