@@ -57,6 +57,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2553-separate-the-digits-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -155,4 +156,5 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2553-separate-the-digits-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
