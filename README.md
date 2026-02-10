@@ -39,6 +39,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
@@ -80,6 +81,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
