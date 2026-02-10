@@ -41,6 +41,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -65,6 +66,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0056-merge-intervals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Hash Table
@@ -72,6 +74,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -95,6 +98,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -103,4 +107,20 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
