@@ -57,6 +57,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0442-find-all-duplicates-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
@@ -190,6 +191,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -202,4 +204,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
