@@ -32,9 +32,8 @@ class Solution:
 
         
 
-        print(matrix)
+        
 
 
-        return matrix
         
         
