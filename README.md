@@ -63,6 +63,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2553-separate-the-digits-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
