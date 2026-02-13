@@ -63,6 +63,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -156,6 +157,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0136-single-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Counting
 |  |
 | ------- |
@@ -206,6 +208,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0054-spiral-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -215,6 +218,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Union-Find
 |  |
 | ------- |
@@ -227,5 +231,6 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
