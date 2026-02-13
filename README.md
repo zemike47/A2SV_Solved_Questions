@@ -71,6 +71,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2553-separate-the-digits-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3527-find-the-most-common-response](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
@@ -109,6 +110,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0442-find-all-duplicates-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +139,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Prefix Sum
