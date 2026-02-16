@@ -28,6 +28,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
@@ -85,6 +86,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
@@ -130,6 +132,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
