@@ -115,6 +115,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Trie
 |  |
@@ -143,6 +144,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [2007-find-original-array-from-doubled-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +296,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
 | ------- |
