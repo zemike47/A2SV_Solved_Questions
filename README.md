@@ -57,6 +57,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -198,6 +199,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -269,6 +271,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
