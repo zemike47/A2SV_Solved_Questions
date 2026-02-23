@@ -105,6 +105,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
@@ -169,6 +170,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
@@ -343,5 +345,6 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
