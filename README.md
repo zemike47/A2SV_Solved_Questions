@@ -76,6 +76,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0643-maximum-average-subarray-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -339,4 +340,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
