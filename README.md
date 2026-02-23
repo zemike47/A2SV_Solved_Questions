@@ -51,6 +51,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0001-two-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
@@ -285,6 +286,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
