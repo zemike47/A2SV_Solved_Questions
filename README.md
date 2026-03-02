@@ -69,6 +69,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -224,6 +225,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
@@ -283,6 +285,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2671-frequency-tracker](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Randomized
