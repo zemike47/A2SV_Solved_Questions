@@ -70,6 +70,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0274-h-index](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -231,6 +232,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0848-shifting-letters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -294,6 +296,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2671-frequency-tracker](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Randomized
@@ -341,6 +344,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0054-spiral-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
