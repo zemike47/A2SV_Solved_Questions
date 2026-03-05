@@ -96,6 +96,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0904-fruit-into-baskets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -223,6 +224,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0904-fruit-into-baskets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -248,6 +250,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0724-find-pivot-index](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
