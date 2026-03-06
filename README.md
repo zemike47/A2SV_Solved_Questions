@@ -350,6 +350,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0633-sum-of-square-numbers](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -418,4 +419,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
