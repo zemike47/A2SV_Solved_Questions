@@ -299,6 +299,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -324,6 +325,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -441,6 +443,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Data Stream
