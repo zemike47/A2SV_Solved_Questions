@@ -78,6 +78,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -271,6 +272,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0209-minimum-size-subarray-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -449,6 +451,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -460,6 +463,11 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
