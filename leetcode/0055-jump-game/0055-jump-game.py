@@ -3,7 +3,6 @@ class Solution:
         
         target = len(nums)-1
         max_reach = 0
-        i = 0
 
         for i, jump in enumerate(nums):
 
@@ -15,7 +14,6 @@ class Solution:
             if max_reach >= target:
                 return True
 
-        return True
 
         
 
