@@ -462,6 +462,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0641-design-circular-deque](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -494,4 +495,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
