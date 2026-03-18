@@ -494,6 +494,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
@@ -544,4 +545,16 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
