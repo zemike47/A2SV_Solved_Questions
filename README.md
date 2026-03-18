@@ -489,6 +489,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0641-design-circular-deque](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [2487-remove-nodes-from-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -500,6 +501,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0739-daily-temperatures](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2390-removing-stars-from-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
 |  |
 | ------- |
@@ -512,6 +514,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
@@ -532,6 +535,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
