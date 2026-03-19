@@ -551,6 +551,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -562,9 +563,11 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
