@@ -35,6 +35,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0390-elimination-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -534,6 +535,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0050-powx-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
