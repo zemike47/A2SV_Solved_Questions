@@ -11,7 +11,7 @@ class Solution:
                 return 
             
             for i in range(len(nums)):
-                if comb and nums[i] in comb_set:
+                if comb and nums[i] in comb:
                     continue
 
                 comb.append(nums[i])
