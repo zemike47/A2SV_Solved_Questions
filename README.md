@@ -59,6 +59,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0055-jump-game) |
@@ -603,6 +604,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0078-subsets) |
