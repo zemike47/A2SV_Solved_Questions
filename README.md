@@ -174,6 +174,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2381-shifting-letters-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -611,4 +612,9 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0052-n-queens-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0078-subsets) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+## Enumeration
+|  |
+| ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
