@@ -603,6 +603,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
