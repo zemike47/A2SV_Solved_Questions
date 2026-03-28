@@ -8,12 +8,11 @@ class Solution:
 
         borad = [["."] * n for _ in range(n)]
 
-        count = 0
+        self.count = 0
 
         def backtrack(r):
             if r == n:
-                nonlocal count
-                count += 1
+                self.count += 1
                 return
 
             for c in range(n):
@@ -35,6 +34,6 @@ class Solution:
 
         backtrack(0)
 
-        return count
+        return self.count
 
 
