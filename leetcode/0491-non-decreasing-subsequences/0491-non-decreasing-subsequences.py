@@ -6,8 +6,7 @@ class Solution:
         
         def backtrack(idx,curr):
             if len(curr) >= 2:
-                if curr not in ans:
-                    ans.append(curr.copy())
+                ans.append(curr.copy())
                 # if curr not in set_ans:
                 #     ans.append(curr.copy())
                 #     set_ans.append(curr)
@@ -15,8 +14,17 @@ class Solution:
             if idx >= n:
                 return
             
+            used = set()  
+
+            
             for i in range(idx,n):
+                if nums[i] in used:
+                    continue
+
+        
                 if len(curr) == 0 or nums[i] >= curr[-1]:
+                    used.add(nums[i])
+                    
                     curr.append(nums[i])
                 
 
