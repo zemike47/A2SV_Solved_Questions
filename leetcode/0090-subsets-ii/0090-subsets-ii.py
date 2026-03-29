@@ -9,8 +9,7 @@ class Solution:
 
             ans.append(curr.copy())
 
-            if start >= n:
-                return
+
 
 
             for i in range(start,n):
