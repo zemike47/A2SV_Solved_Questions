@@ -179,6 +179,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -456,6 +457,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -519,6 +521,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
@@ -624,6 +627,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Enumeration
 |  |
 | ------- |
