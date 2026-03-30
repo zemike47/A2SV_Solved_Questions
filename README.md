@@ -175,6 +175,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -621,6 +622,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0090-subsets-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0306-additive-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Enumeration
 |  |
