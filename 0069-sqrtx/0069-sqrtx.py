@@ -4,7 +4,7 @@ class Solution:
         if x < 2:
             return x
 
-        left = 0 
+        left = 2
         right = x // 2
 
         while left <= right:
