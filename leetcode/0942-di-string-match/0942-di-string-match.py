@@ -13,9 +13,7 @@ class Solution:
                 ans.append(high)
                 high -= 1
 
-        if s[-1] == "I":
-            ans.append(low)
-        else:
-            ans.append(high)
+        ans.append(low)
+      
         
         return ans 
