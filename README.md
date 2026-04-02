@@ -58,6 +58,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0011-container-with-most-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
@@ -311,6 +312,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
