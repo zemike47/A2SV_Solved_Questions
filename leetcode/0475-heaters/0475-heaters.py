@@ -3,10 +3,11 @@ class Solution:
 
         radius = 0
         heaters.sort()
+        n = len(heaters) 
 
         for house in houses:
             min_dis = float("inf")
-            left , right = 0 , len(heaters) - 1
+            left , right = 0 , n - 1
             
             while left <= right:
                 mid = (left + right) // 2
