@@ -162,6 +162,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
@@ -430,6 +431,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
