@@ -70,6 +70,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0056-merge-intervals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
@@ -325,6 +326,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0035-search-insert-position](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -470,6 +472,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0054-spiral-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
