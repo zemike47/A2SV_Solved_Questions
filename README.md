@@ -257,6 +257,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -550,6 +551,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
