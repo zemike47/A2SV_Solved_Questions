@@ -61,6 +61,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0035-search-insert-position](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0051-n-queens) |
@@ -252,6 +253,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
