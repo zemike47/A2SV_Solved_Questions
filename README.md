@@ -90,6 +90,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0330-patching-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0330-patching-array) |
@@ -336,6 +337,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0209-minimum-size-subarray-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0475-heaters) |
@@ -350,6 +352,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0090-subsets-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -451,6 +454,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0567-permutation-in-string) |
