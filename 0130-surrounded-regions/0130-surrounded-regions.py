@@ -41,4 +41,5 @@ class Solution:
                     
                     if is_surrounded:
                         for x, y in region:
-                            board[x][y] = 'X'
+                            board[x][y] = 'X' 
+                            
