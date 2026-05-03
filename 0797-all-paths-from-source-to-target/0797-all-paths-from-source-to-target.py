@@ -6,7 +6,7 @@ class Solution:
         path = []
         path.append(0)
 
-        def bfs(node):
+        def dfs(node):
             
             for nei in graph[node]:
 
@@ -17,10 +17,10 @@ class Solution:
                     
                 else:
                     path.append(nei)
-                    bfs(nei)
+                    dfs(nei)
                     path.pop()
 
-        bfs(0)
+        dfs(0)
         return ans
 
 
