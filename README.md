@@ -475,6 +475,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -656,6 +657,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
@@ -688,6 +690,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 ## Hash Function
@@ -731,6 +734,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
