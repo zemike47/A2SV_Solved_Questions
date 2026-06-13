@@ -92,6 +92,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0239-sliding-window-maximum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
@@ -342,6 +343,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
