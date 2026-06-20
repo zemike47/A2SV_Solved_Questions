@@ -562,6 +562,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -647,6 +648,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0100-same-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
@@ -659,6 +661,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
@@ -677,6 +680,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0100-same-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
