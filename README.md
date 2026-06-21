@@ -655,6 +655,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -672,6 +673,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
@@ -687,6 +689,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
