@@ -149,6 +149,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1480-running-sum-of-1d-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [1552-magnetic-force-between-two-balls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -244,6 +245,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0976-largest-perimeter-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -356,6 +358,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0713-subarray-product-less-than-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1552-magnetic-force-between-two-balls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
