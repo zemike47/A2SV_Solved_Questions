@@ -162,6 +162,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2381-shifting-letters-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -361,6 +362,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -410,6 +412,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -626,6 +629,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -758,6 +762,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Radix Sort
 |  |
 | ------- |
@@ -777,4 +782,12 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
