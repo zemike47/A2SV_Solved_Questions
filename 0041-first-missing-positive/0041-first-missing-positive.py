@@ -2,13 +2,19 @@ class Solution:
     def firstMissingPositive(self, nums):
         n = len(nums)
 
-        # Step 1: place numbers in correct positions
-        for i in range(n):
-            while 1 <= nums[i] <= n and nums[nums[i] - 1] != nums[i]:
-                correct_idx = nums[i] - 1
-                nums[i], nums[correct_idx] = nums[correct_idx], nums[i]
+        i = 0
+        while i < n:
 
-        # Step 2: find first missing
+            correct = nums[i] - 1
+
+            if (
+                1 <= nums[i] <= n and
+                nums[i] != nums[correct]
+            ):
+                nums[i], nums[correct] = nums[correct], nums[i]
+            else:
+                i += 1
+
         for i in range(n):
             if nums[i] != i + 1:
                 return i + 1
