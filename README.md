@@ -98,6 +98,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0330-patching-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -353,6 +354,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0275-h-index-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0475-heaters) |
@@ -409,6 +411,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
@@ -627,6 +630,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -761,6 +765,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Radix Sort
@@ -785,9 +790,11 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
