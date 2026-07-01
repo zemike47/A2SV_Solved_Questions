@@ -142,6 +142,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0985-sum-of-even-numbers-after-queries](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
+| [1046-last-stone-weight](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -425,6 +426,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bucket Sort
 |  |
