@@ -41,6 +41,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -587,6 +588,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
@@ -662,6 +664,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
