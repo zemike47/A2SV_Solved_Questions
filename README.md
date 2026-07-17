@@ -444,6 +444,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -614,6 +615,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
