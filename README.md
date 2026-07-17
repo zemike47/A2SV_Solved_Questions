@@ -33,6 +33,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0048-rotate-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -84,6 +85,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0130-surrounded-regions](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -615,6 +617,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0394-decode-string) |
