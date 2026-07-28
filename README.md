@@ -285,6 +285,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -448,6 +449,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
@@ -610,6 +612,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0141-linked-list-cycle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -687,6 +690,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
