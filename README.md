@@ -124,6 +124,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0560-subarray-sum-equals-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
@@ -253,6 +254,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0475-heaters) |
+| [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -313,6 +315,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0567-permutation-in-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -402,6 +405,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0383-ransom-note](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -443,6 +447,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0239-sliding-window-maximum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
@@ -557,6 +562,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0179-largest-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
