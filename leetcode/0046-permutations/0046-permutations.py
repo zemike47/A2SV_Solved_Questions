@@ -1,28 +1,31 @@
-
-        
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        ans = []
-        comb_set = set()
+        
+        result = []
+        used = [False] * len(nums)
 
-        def backtracking(comb):
-            if len(comb) == len(nums):
-                ans.append(comb.copy())
-                return 
-            
+
+        def backtrack(path):
+            if len(path) == len(nums):
+                result.append(path.copy())
+                return
+
             for i in range(len(nums)):
-                if comb and nums[i] in comb:
+                if used[i]:
                     continue
+                
 
-                comb.append(nums[i])
-                comb_set.add(nums[i])
+                path.append(nums[i])
+                used[i] = True
 
-                backtracking(comb)
+                backtrack(path)
 
-                comb.pop()
-                comb_set.remove(nums[i])
+                used[i] = False
+                path.pop()
 
 
-        backtracking([])
+        
+        backtrack([])
+        return result
 
-        return ans
+        
