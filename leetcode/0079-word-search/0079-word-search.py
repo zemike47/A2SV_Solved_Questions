@@ -1,6 +1,18 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
 
+        #prunning one
+        word_count = collections.Counter(word)
+
+        board_count = collections.Counter([ch for row in board for ch in row])
+
+        for ch in word:
+            if word_count[ch] > board_count[ch]:
+                return False
+
+        if board_count[word[0]] > board_count[word[-1]]:
+            word = word[::-1]
+
 
         def dfs(r,c,index):
 
