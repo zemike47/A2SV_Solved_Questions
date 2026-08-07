@@ -82,6 +82,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0074-search-a-2d-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -193,6 +194,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -551,6 +553,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0059-spiral-matrix-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -746,6 +749,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0110-balanced-binary-tree) |
@@ -823,6 +827,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0052-n-queens-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0306-additive-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0306-additive-number) |
