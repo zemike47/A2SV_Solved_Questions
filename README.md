@@ -199,6 +199,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0299-bulls-and-cows) |
@@ -237,6 +238,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sorting
 |  |
 | ------- |
@@ -476,6 +478,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0146-lru-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
@@ -760,6 +763,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0199-binary-tree-right-side-view](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
