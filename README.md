@@ -891,4 +891,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0973-k-closest-points-to-origin) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
