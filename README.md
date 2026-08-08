@@ -133,6 +133,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0722-remove-comments](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0724-find-pivot-index) |
@@ -548,6 +549,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
@@ -567,6 +569,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
@@ -772,6 +775,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
@@ -816,6 +820,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
