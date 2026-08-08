@@ -8,33 +8,33 @@ class Solution:
 
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
 
-        prefixes = set()
-
-        for word in words:
-            for i in range(1,len(word)+1):
-                pre = word[:i]
-                prefixes.add(pre)
-
-        word_sets = set(words)
-        
-        # root = TreeNode()
+        # prefixes = set()
 
         # for word in words:
-        #     node = root()
+        #     for i in range(1,len(word)+1):
+        #         pre = word[:i]
+        #         prefixes.add(pre)
 
-        #     for char in words:
-
-        #         if char not in node.children:
-        #             node.children[char] = TreeNode()
-
-        #         node = node.children[char]
-
-        #         node.word = word
+        # word_sets = set(words)
         
-        result = set()
+        root = TrieNode()
+
+        for word in words:
+            node = root
+
+            for char in word:
+
+                if char not in node.children:
+                    node.children[char] = TrieNode()
+
+                node = node.children[char]
+
+            node.word = word
+        
+        result = []
 
      
-        def dfs(r,c,current):
+        def dfs(r,c,node):
 
             if r < 0 or c < 0 or r >= len(board) or c >= len(board[0]):
                 return
@@ -44,37 +44,37 @@ class Solution:
             if board[r][c] == "#":
                 return
             
-            current += board[r][c]
+            # current += board[r][c]
 
-            if current not in prefixes:
-                return 
+            # if current not in prefixes:
+            #     return 
 
-            if current in word_sets:
-                result.add(current)
+            # if current in word_sets:
+            #     result.add(current)
                 
-
-
-            # if node not in node.children:
-            #     return
-
-            # node = node.children[char]
-
-            # if node.word:
-            #     result.append(node)
-            #     node.word = None
-
             char = board[r][c]
+
+            if char not in node.children:
+                return
+
+            node = node.children[char]
+
+            if node.word:
+                result.append(node.word)
+                node.word = None
+
+            
             board[r][c] = "#"
 
-            # dfs(r+1,c,node)
-            # dfs(r-1,c,node)
-            # dfs(r,c-1,node)
-            # dfs(r,c+1,node)
+            dfs(r+1,c,node)
+            dfs(r-1,c,node)
+            dfs(r,c-1,node)
+            dfs(r,c+1,node)
 
-            dfs(r+1,c,current)
-            dfs(r-1,c,current)
-            dfs(r,c-1,current)
-            dfs(r,c+1,current)
+            # dfs(r+1,c,current)
+            # dfs(r-1,c,current)
+            # dfs(r,c-1,current)
+            # dfs(r,c+1,current)
 
 
             board[r][c] = char
@@ -82,10 +82,10 @@ class Solution:
 
         for r in range(len(board)):
             for c in range(len(board[0])):
-                dfs(r,c,"")
-                # dfs(r,c,root)
+                # dfs(r,c,"")
+                dfs(r,c,root)
 
-        # return result
+        return result
 
-        return list(result)
+        # return list(result)
 
