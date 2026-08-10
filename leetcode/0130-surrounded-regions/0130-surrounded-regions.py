@@ -1,45 +1,46 @@
 class Solution:
     def solve(self, board):
-        if not board:
-            return
-        
-        m, n = len(board), len(board[0])
-        visited = [[False]*n for _ in range(m)]
-        
-        def dfs(r, c):
-            stack = [(r, c)]
-            region = []
-            is_surrounded = True
+
+        rows = len(board)
+        cols = len(board[0])
+
+        def dfs (r,c):
+            if r < 0 or r >= rows or c < 0 or c >= cols:
+                return
             
-            while stack:
-                x, y = stack.pop()
-                
-                if visited[x][y]:
-                    continue
-                
-                visited[x][y] = True
-                region.append((x, y))
-                
-                # If touches border → not surrounded
-                if x == 0 or y == 0 or x == m-1 or y == n-1:
-                    is_surrounded = False
-                
-                for dx, dy in [(1,0), (-1,0), (0,1), (0,-1)]:
-                    nx, ny = x + dx, y + dy
-                    
-                    if 0 <= nx < m and 0 <= ny < n:
-                        if board[nx][ny] == 'O' and not visited[nx][ny]:
-                            stack.append((nx, ny))
+            if board[r][c] != "O":
+                return
+
+            board[r][c] = "S"
             
-            return region, is_surrounded
+            dfs(r+1,c)
+            dfs(r-1,c)
+            dfs(r,c+1)
+            dfs(r,c-1)
+
+        for r in range(rows):
+            dfs(r,0)
+            dfs(r,cols-1)
+
+        for c in range(cols):
+            dfs(0,c)
+            dfs(rows - 1,c)
         
-        # Traverse entire board
-        for i in range(m):
-            for j in range(n):
-                if board[i][j] == 'O' and not visited[i][j]:
-                    region, is_surrounded = dfs(i, j)
-                    
-                    if is_surrounded:
-                        for x, y in region:
-                            board[x][y] = 'X' 
-                            
+        
+
+        for r in range(rows):
+            for c in range(cols):
+
+                if board[r][c] == "O":
+                    board[r][c] = "X"
+                
+                elif board[r][c] == "S":
+                    board[r][c] = "O"
+
+
+    
+
+
+
+
+        
