@@ -154,6 +154,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0974-subarray-sums-divisible-by-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [0994-rotting-oranges](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
@@ -573,6 +574,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
+| [0994-rotting-oranges](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Greedy
@@ -824,6 +826,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
+| [0994-rotting-oranges](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Hash Function
