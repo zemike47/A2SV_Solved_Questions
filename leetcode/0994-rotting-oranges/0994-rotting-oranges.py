@@ -6,7 +6,7 @@ class Solution:
 
         queue = deque()
 
-        fresh = set()
+        fresh = 0
 
         for r in range(rows):
             for c in range(cols):
@@ -14,7 +14,7 @@ class Solution:
                     queue.append((r,c))
 
                 if grid[r][c] == 1:
-                    fresh.add((r,c))
+                    fresh += 1
                     
         directions = [(1,0),(-1,0),(0,-1),(0,1)]
 
@@ -40,7 +40,7 @@ class Solution:
 
                     if grid[nr][nc] == 1:
                         
-                        fresh.remove((nr,nc))
+                        fresh -= 1
                         grid[nr][nc] = 2
                         queue.append((nr,nc))
                 
