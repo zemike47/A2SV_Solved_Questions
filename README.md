@@ -771,6 +771,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -819,6 +820,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0130-surrounded-regions](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -875,6 +877,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -883,6 +886,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Geometry
@@ -912,4 +916,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0051-n-queens) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
