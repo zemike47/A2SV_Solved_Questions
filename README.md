@@ -462,6 +462,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0355-design-twitter](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
@@ -779,6 +780,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
@@ -825,6 +827,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
@@ -879,6 +882,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0207-course-schedule](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -920,4 +924,12 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
