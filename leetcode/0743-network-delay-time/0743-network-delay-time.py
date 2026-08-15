@@ -1,42 +1,38 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
 
+        dist = {i:float("inf") for i in range(1,n+1)}
+        dist[k] = 0
+
+        graph = defaultdict(list)
+
+        for u,v,t in times:
+            graph[u].append((t,v))
+
         import heapq
 
-        graph = [[] for _ in range(n+1)]
+        pq = [(0,k)]
 
-        for u,v,w in times:
-            graph[u].append((v,w))
+        while pq:
 
-        TIME = {node:float("inf") for node in range(1,n+1)}
-        TIME[k] =  0
+            curr_time , u = heapq.heappop(pq)
 
-        min_heap = [(0,k)]
-
-        while min_heap:
-            t, node = heapq.heappop(min_heap)
-
-            if t > TIME[node]:
+            if curr_time > dist[u]:
                 continue
-            
-            for neig,neig_t in graph[node]:
-                curr_time = t + neig_t
 
-                if curr_time < TIME[neig]:
-                    TIME[neig] = curr_time
-                    heapq.heappush(min_heap,(curr_time,neig))
-                    
+            for t,v in graph[u]:
+                new_time = curr_time + t
 
+                if new_time < dist[v]:
+                    dist[v] = new_time
+                    heapq.heappush(pq,(new_time,v))
         
-        if float("inf") in TIME.values():
-            return -1
-        
-        return max(TIME.values())
-        
+        result = max(dist.values())
+
+        return result if result != float("inf") else -1
 
 
 
 
 
 
-        
