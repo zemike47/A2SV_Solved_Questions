@@ -463,6 +463,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
@@ -644,6 +645,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0213-house-robber-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
@@ -782,6 +784,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -829,6 +832,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
@@ -884,6 +888,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -928,6 +933,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
