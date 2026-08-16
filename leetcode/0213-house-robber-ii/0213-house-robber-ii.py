@@ -6,17 +6,20 @@ class Solution:
             return nums[0]
         
         def dynammicP(nums):
-            prev1 = 0
-            prev2 = 0
+            n = len(nums)
 
-            for money in nums:
-                curr = max(prev1,money + prev2)
+            if n == 1:
+                return nums[0]
 
-                prev2 = prev1
-                prev1 = curr
-            
-            return prev1
+            dp = [0] * n
 
+            dp[0] = nums[0]
+            dp[1] = max(nums[0],nums[1])
+
+            for i in range(2,n):
+                dp[i] = max(dp[i-1],nums[i]+dp[i-2])
+
+            return dp[n-1]
         
 
         case1 = dynammicP(nums[1:])
