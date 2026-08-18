@@ -191,6 +191,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
@@ -519,6 +520,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -638,6 +640,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -940,4 +943,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0743-network-delay-time) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
