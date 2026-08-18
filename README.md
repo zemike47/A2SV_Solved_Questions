@@ -90,6 +90,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0136-single-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -647,6 +648,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0055-jump-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
