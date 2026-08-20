@@ -127,6 +127,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -658,6 +659,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -961,4 +963,12 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
