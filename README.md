@@ -125,6 +125,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0475-heaters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
@@ -658,6 +659,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0300-longest-increasing-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
@@ -875,6 +877,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0212-word-search-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -966,9 +969,14 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
