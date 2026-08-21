@@ -1,20 +1,16 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-    
-        current = 0
-        max_val = float("-inf")
+        
+        max_sum = nums[0]
+        curr_sum = 0
 
         for i in range(len(nums)):
-            current += nums[i]
-            max_val = max(max_val,current)
 
-            if current < 0:
-                current = 0
+            if curr_sum < 0:
+                curr_sum = 0
             
-        return max_val
-            
+            curr_sum += nums[i]
 
+            max_sum = max(max_sum,curr_sum)
 
-
-
-        
+        return max_sum
