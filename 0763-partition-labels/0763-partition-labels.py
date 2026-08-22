@@ -1,25 +1,27 @@
 class Solution:
-    def partitionLabels(self, s: str) -> list[int]:
-        last = {char:i for i,char in enumerate(s)}
+    def partitionLabels(self, s: str) -> List[int]:
+        
 
-        end = 0
-        result = []
-        first = 0
+        lastIndexChar = {}
+
+        for i , c in enumerate(s):
+            lastIndexChar[c] = i
+
+        start = end = 0
+        size = 0
+        res = []
+        
+        for i , c in enumerate(s):
+            size += 1
 
 
-        for i,char in enumerate(s):
-            end = max(end,last[char])
+            end = max(end,lastIndexChar[c])
 
             if i == end:
-                result.append(end - first + 1)
-                first = end + 1
-                end = 0
+                res.append(size)
+                size = 0
             
-
-        return result
-
-            
+        return res
 
 
-
-
+        
