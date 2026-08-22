@@ -147,6 +147,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0746-min-cost-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0846-hand-of-straights](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
@@ -277,6 +278,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
@@ -342,6 +344,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0846-hand-of-straights](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -602,6 +605,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0942-di-string-match) |
