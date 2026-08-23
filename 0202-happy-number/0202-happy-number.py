@@ -1,21 +1,24 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
+        hash_set = set()
 
-        def check(n):
+        while n != 1:
+
+            if n in hash_set:
+                return False
+
+            hash_set.add(n)
+            
+           
             new_num = 0
+            
             while n > 0:
                 r = n % 10
                 new_num += r ** 2
                 n //= 10
-            return new_num
+            
+            n = new_num
 
-        s = set()
-        s.add(n)
-
-        while n != 1:
-            n = check(n)
-            if n in s:
-                return False
-            s.add(n)
-
+        
         return True
+    
