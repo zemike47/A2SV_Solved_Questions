@@ -4,36 +4,27 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
 
-        zeros_rows = set()
-        zeros_cols = set()
+        rows = [False] * len(matrix)
+        cols = [False] * len(matrix[0])
 
 
-        rows = len(matrix)
-        cols = len(matrix[0])
 
-        for i in range(rows):
-            for j in range(cols):
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
                 if matrix[i][j] == 0:
-                    zeros_rows.add(i)
-                    zeros_cols.add(j)
+                    rows[i] = True
+                    cols[j] = True
+
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                if rows[i] or cols[j]:
+                    matrix[i][j] = 0
 
         
-        for i in zeros_rows:
-            for j in range(cols):
-                
-                matrix[i][j] = 0
-
-        for j in zeros_cols:
-            for i in range(rows):
-                
-                matrix[i][j] = 0         
-
+                    
 
 
         
 
-        
 
-
-        
         
