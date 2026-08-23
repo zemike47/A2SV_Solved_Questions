@@ -2,23 +2,24 @@ class Solution:
     def isHappy(self, n: int) -> bool:
         hash_set = set()
 
-        while n != 1:
+        def get_next(n):
 
-            if n in hash_set:
-                return False
-
-            hash_set.add(n)
-            
-           
-            new_num = 0
+            total = 0
             
             while n > 0:
                 r = n % 10
-                new_num += r ** 2
+                total += r ** 2
                 n //= 10
             
-            n = new_num
+            return total
+
+        slow = n
+        fast = get_next(n)
+
+        while fast != 1 and fast != slow:
+            slow = get_next(slow)
+            fast = get_next(get_next(fast))
 
         
-        return True
+        return fast == 1
     
