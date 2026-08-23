@@ -3,17 +3,18 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        n = len(matrix)
+        # step - 1 transpose matrix
 
-        for i in range(n):
-           for j in range(n):
-             if i < j:  
-                matrix[i][j], matrix[j][i] = matrix[j][i] , matrix[i][j]
-               
+        for r in range(len(matrix)):
+            for c in range(r+1,len(matrix)):
+                matrix[r][c] , matrix[c][r] = matrix[c][r] , matrix[r][c]
+
+        #step 2 reverse row
+
         for row in matrix:
             row.reverse()
 
-        return matrix
         
-
         
+        
+            
