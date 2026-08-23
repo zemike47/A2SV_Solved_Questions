@@ -179,6 +179,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -290,6 +291,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2007-find-original-array-from-doubled-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -407,6 +409,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Bit Manipulation
@@ -481,6 +484,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0973-k-closest-points-to-origin](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -985,4 +989,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
