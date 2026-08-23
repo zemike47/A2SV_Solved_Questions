@@ -993,4 +993,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1851-minimum-interval-to-include-each-query) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
