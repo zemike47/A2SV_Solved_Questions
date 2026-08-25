@@ -420,6 +420,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0078-subsets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
@@ -462,6 +463,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0004-median-of-two-sorted-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
