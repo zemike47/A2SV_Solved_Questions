@@ -1,7 +1,9 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        c = Counter(nums)
+        
+        result = nums[0]
 
-        for key, value in c.items():
-            if value == 1:
-                return key
+        for num in nums[1:]:
+            result ^= num
+        
+        return result
