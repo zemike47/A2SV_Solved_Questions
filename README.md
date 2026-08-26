@@ -27,6 +27,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
