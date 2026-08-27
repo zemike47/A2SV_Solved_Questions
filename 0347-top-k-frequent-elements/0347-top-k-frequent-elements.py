@@ -1,24 +1,34 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        import heapq
 
-        hash_map = Counter(nums)
+
+        heap = []
+
+        count = Counter(nums)
+        print(count)
+
+        for num,freq in count.items():
+
+            heapq.heappush(heap,(freq,num))
+        
+
+        while len(heap) != k:
+            heapq.heappop(heap)
+        
         ans = []
 
-        while k:
-            max_freq = float("-inf")
-            KEY = None
-
-            for num,freq in hash_map.items():
-                if freq > max_freq:
-                    max_freq = freq
-                    KEY = num
-           
-            
-            ans.append(KEY)
-            del hash_map[KEY]
-            k -= 1
+        for freq, num in heap:
+            ans.append(num)
         
         return ans
+            
+        
+
+
+
+
+
             
 
             
