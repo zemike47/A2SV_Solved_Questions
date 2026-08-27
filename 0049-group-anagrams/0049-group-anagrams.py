@@ -1,14 +1,36 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        if len(strs) == 1:
+            return [[strs[0]]]
 
-        group = defaultdict(list)
+        hash_map = defaultdict(list)
 
-        for word in strs:
-            key = ''.join(sorted(word))
+        for st in strs:
+            count = [0] * 26
 
-            group[key].append(word)
-        
-        return list(group.values())
+            for c in st:
+                i = ord(c) - ord('a')
+                count[i] += 1
 
-        
             
+            hash_map[tuple(count)].append(st)
+            
+        return list(hash_map.values())
+
+
+
+
+
+            
+
+
+
+
+        
+
+
+
+            
+
+
+        
