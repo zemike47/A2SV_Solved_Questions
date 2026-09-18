@@ -35,6 +35,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0050-powx-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
@@ -666,6 +667,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0005-longest-palindromic-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0152-maximum-product-subarray) |
@@ -768,6 +770,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
