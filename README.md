@@ -426,6 +426,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0191-number-of-1-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -677,6 +678,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0213-house-robber-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0338-counting-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
