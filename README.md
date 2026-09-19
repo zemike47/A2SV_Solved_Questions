@@ -89,6 +89,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0079-word-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0134-gas-station) |
@@ -668,6 +669,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0152-maximum-product-subarray) |
