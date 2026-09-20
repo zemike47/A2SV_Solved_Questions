@@ -1,10 +1,20 @@
 class Solution:
     def maxRepeating(self, sequence: str, word: str) -> int:
-        k = 0
-        repeated = word
+        
+        n = len(sequence)
+        l = len(word)
 
-        while repeated in sequence:
-            k += 1
+        k = n // l
+
+        count = 0
+        repeated = ""
+        
+        for i in range(1,k+1):
             repeated += word
 
-        return k
+            if repeated in sequence:
+                count += 1
+        
+        return count
+
+        
