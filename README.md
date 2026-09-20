@@ -247,6 +247,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1668-maximum-repeating-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1668-maximum-repeating-substring) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -667,6 +668,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [1668-maximum-repeating-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1668-maximum-repeating-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -694,6 +696,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1025-divisor-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1668-maximum-repeating-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1668-maximum-repeating-substring) |
 ## Linked List
 |  |
 | ------- |
