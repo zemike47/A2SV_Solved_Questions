@@ -1,13 +1,17 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-        F = [0]*38
-        F[0] = 0
-        F[1] = 1
-        F[2] = 1
+        if n == 0:
+            return 0
+        if n == 1 or n == 2:
+            return 1
+            
+        prev1,prev2,prev3 = 1,1,0
 
         for i in range(3,n+1):
-            F[i] = F[i-1] + F[i-2] + F[i-3]
+            current = prev1 + prev2 + prev3
 
-        # print(F)
-
-        return F[n] 
+            prev3 = prev2
+            prev2 = prev1
+            prev1 = current
+        
+        return prev1
