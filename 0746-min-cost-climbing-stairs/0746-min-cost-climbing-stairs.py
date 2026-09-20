@@ -3,14 +3,15 @@ class Solution:
         n = len(cost)
         # prev2 = 0
         # prev1 = cost[0]
-        dp = [0] * (n+2)
-        dp[n] = 0
+        # dp = [0] * (n+2)
+        # dp[n] = 0
+        prev1 , prev2 = 0, 0
        
 
-        for i in range(n-1,-1,-1):
-            dp[i] = min(cost[i] + dp[i+1] , cost[i] + dp[i+2])
+        for i in range(n):
+            current = min(cost[i] + prev1 , cost[i] + prev2)
 
-            # prev2 = prev1
-            # prev1 = current
+            prev2 = prev1
+            prev1 = current
         
-        return min(dp[0],dp[1])
+        return min(prev1,prev2)
