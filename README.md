@@ -436,6 +436,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -701,6 +702,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1668-maximum-repeating-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Linked List
 |  |
 | ------- |
@@ -921,6 +923,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Interactive
 |  |
 | ------- |
