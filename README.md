@@ -33,6 +33,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0013-roman-to-integer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
@@ -683,6 +684,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0005-longest-palindromic-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0118-pascals-triangle) |
@@ -1049,4 +1051,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1025-divisor-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
