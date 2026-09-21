@@ -126,6 +126,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -694,6 +695,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0322-coin-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -1013,6 +1015,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -1023,6 +1026,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 ## Sweep Line
 |  |
