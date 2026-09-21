@@ -121,6 +121,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -690,6 +691,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0213-house-robber-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
@@ -885,6 +887,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0200-number-of-islands](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
@@ -1009,11 +1012,13 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
