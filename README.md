@@ -249,6 +249,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0848-shifting-letters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0942-di-string-match) |
+| [1143-longest-common-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -715,6 +716,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1668-maximum-repeating-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1061,4 +1063,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
