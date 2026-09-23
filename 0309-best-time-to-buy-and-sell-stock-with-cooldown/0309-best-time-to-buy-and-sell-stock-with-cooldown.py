@@ -1,17 +1,16 @@
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
-
+    def maxProfit(self, prices: list[int]) -> int:
         hold = float("-inf")
-        sold = float("-inf")
+        sold = 0
         rest = 0
 
         for price in prices:
-            prev_hold = hold
-            prev_sold = sold
-            prev_rest = rest
+            new_hold = max(hold, rest - price)
+            new_sold = hold + price 
+            new_rest = max(rest,sold)
 
-            hold = max(prev_hold, prev_rest - price)
-            sold = prev_hold + price
-            rest = max(prev_rest, prev_sold)
-
-        return max(sold, rest)
+            hold = new_hold 
+            sold = new_sold
+            rest = new_rest
+        
+        return max(sold,rest)
