@@ -46,6 +46,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1025-divisor-game) |
@@ -163,6 +164,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0848-shifting-letters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
@@ -658,6 +660,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Sliding Window
@@ -714,6 +717,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0647-palindromic-substrings](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1143-longest-common-subsequence) |
@@ -1067,4 +1071,12 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1143-longest-common-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
