@@ -225,6 +225,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -699,6 +700,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0064-minimum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
