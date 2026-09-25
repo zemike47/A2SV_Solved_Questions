@@ -1,13 +1,28 @@
 class Solution:
-    def longestCommonPrefix(self, strs: List[str]) -> str:
-        prefix = min(strs)
+    def longestCommonPrefix(self, strs: list[str]) -> str:
 
-        for i in range(len(prefix)):
-            for ch in strs:
-                if prefix[i] != ch[i]:
-                    return prefix[:i]
+        strs.sort()
+
+        ans = ""
+        i = 0
+
+        while True:
+            if i < len(strs[0]):
+                w = strs[0][i]
+                for st in strs[1:]:
+                    if i < len(st) and st[i] == w:
+                        continue
+
+                    else:
+                        return ans 
+                
+                ans += w
+                i += 1
+            else:
+                return ans 
         
-        return prefix
+        return ans 
+    
+        
 
 
-         
