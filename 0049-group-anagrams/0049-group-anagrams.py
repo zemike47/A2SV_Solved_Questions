@@ -1,36 +1,15 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        if len(strs) == 1:
-            return [[strs[0]]]
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        from collections import defaultdict
+        groups = defaultdict(list)
 
-        hash_map = defaultdict(list)
-
-        for st in strs:
+        for s in strs:
             count = [0] * 26
 
-            for c in st:
-                i = ord(c) - ord('a')
-                count[i] += 1
-
+            for c in s:
+                count[ord(c) - ord('a')] += 1
             
-            hash_map[tuple(count)].append(st)
-            
-        return list(hash_map.values())
-
-
-
-
-
-            
-
-
-
-
+            groups[tuple(count)].append(s)
         
-
-
-
-            
-
-
+        return list(groups.values())
         
