@@ -154,6 +154,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0654-maximum-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0722-remove-comments](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0724-find-pivot-index) |
@@ -367,6 +368,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -538,6 +540,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0355-design-twitter](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0641-design-circular-deque](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -752,6 +755,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0328-odd-even-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0355-design-twitter) |
 | [0641-design-circular-deque](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2487-remove-nodes-from-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -934,6 +938,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 ## Backtracking
 |  |
 | ------- |
