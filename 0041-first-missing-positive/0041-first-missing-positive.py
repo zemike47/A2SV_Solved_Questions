@@ -1,22 +1,14 @@
 class Solution:
-    def firstMissingPositive(self, nums):
-        n = len(nums)
+    def firstMissingPositive(self, nums: list[int]) -> int:
+        
+        for i in range(len(nums)):
+            while 1 <= nums[i] <= len(nums) and nums[nums[i]- 1] != nums[i]:
+                idx = nums[i] - 1
+                nums[i] , nums[idx] = nums[idx], nums[i]
 
-        i = 0
-        while i < n:
-
-            correct = nums[i] - 1
-
-            if (
-                1 <= nums[i] <= n and
-                nums[i] != nums[correct]
-            ):
-                nums[i], nums[correct] = nums[correct], nums[i]
-            else:
-                i += 1
-
-        for i in range(n):
+        for i  in range(len(nums)):
             if nums[i] != i + 1:
                 return i + 1
-
-        return n + 1
+            
+        
+        return len(nums) + 1
