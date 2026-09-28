@@ -250,6 +250,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0647-palindromic-substrings](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
+| [0680-valid-palindrome-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0680-valid-palindrome-ii) |
 | [0722-remove-comments](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -591,6 +592,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0633-sum-of-square-numbers](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0680-valid-palindrome-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -644,6 +646,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0330-patching-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0621-task-scheduler) |
+| [0680-valid-palindrome-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
