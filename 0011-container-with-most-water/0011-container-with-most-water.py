@@ -1,21 +1,22 @@
 class Solution:
-    def maxArea(self, height: List[int]) -> int:
-        max_amount = float("-inf")
-        n = len(height)
+    def maxArea(self,height : list[int]) -> int:
 
-        i , j = 0 , n - 1
+        max_Area =  0
 
-        while i <= j:
-            x = abs(j - i)
-            y = min(height[j] , height[i])
+        left = 0
+        right = len(height) - 1
 
-            curr_amount_water = x * y
+        while left < right:
+            width = right - left
 
-            max_amount = max(max_amount,curr_amount_water)
+            Height = min(height[left],height[right])
 
-            if height[i] <= height[j]:
-                 i += 1
+            max_Area = max(max_Area,width* Height)
+
+            if height[left] < height[right]:
+                left += 1
             else:
-                j -= 1
-        
-        return max_amount
+                right -= 1
+
+        return max_Area
+
