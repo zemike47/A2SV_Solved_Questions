@@ -70,6 +70,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0004-median-of-two-sorted-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
@@ -284,6 +285,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
@@ -570,6 +572,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
