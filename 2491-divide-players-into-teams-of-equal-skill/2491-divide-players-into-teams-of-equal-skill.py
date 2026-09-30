@@ -1,30 +1,30 @@
 class Solution:
-    def dividePlayers(self, skill: List[int]) -> int:
+    def dividePlayers(self, skill: list[int]) -> int:
         skill.sort()
 
-        i , j = 0 , len(skill) -1 
+        left = 0
+        right = len(skill) - 1
 
+        size = skill[left] + skill[right]
         total = 0
 
-        common_s = skill[i] + skill[j]
+        while left < right:
+            curr_size = skill[left] + skill[right]
 
-        
-            
-        print(skill)
-        while i <= j:
-            s = skill[i] + skill[j]
-            c = skill[i] * skill[j]
-
-            if common_s != s:
+            if curr_size != size:
                 return -1
+            
+            product = skill[left] * skill[right]
+            total += product
 
-            total += c
-
-            i += 1
-            j -= 1
+            left += 1
+            right -= 1
         
         return total
         
 
-        
+
+            
+
+
 
