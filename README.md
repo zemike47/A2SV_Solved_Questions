@@ -271,6 +271,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1668-maximum-repeating-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1668-maximum-repeating-substring) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -700,6 +701,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
