@@ -203,6 +203,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -324,6 +325,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2418-sort-the-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -701,6 +703,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
