@@ -1,22 +1,23 @@
 class Solution:
-    def totalFruit(self, fruits: List[int]) -> int:
-        window = {}
+    def totalFruit(self, fruits: list[int]) -> int:
+        import collections
 
-        max_len = float("-inf")
+        window = collections.defaultdict(int)
+        
+        max_fruits = 0
         left = 0
-
         for right in range(len(fruits)):
-            window[fruits[right]] = window.get(fruits[right],0) + 1
-
+            window[fruits[right]] += 1
+            
             while len(window) > 2:
                 window[fruits[left]] -= 1
-                if window[fruits[left]] == 0:
-                    del window[fruits[left]] 
-                left += 1
                 
-             
-            max_len = max(max_len,right - left + 1)
+                
+                if window[fruits[left]] == 0:
+                    del window[fruits[left]]
+                
+                left += 1
             
+            max_fruits = max(max_fruits,right - left + 1)
         
-        return max_len
-
+        return max_fruits
