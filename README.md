@@ -233,6 +233,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
@@ -348,6 +349,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0041-first-missing-positive](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
@@ -696,6 +698,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
