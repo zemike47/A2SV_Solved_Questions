@@ -142,6 +142,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
