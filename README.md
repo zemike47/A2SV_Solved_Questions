@@ -792,6 +792,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0155-min-stack) |
@@ -870,6 +871,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0110-balanced-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -890,6 +892,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0111-minimum-depth-of-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
@@ -919,6 +922,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0110-balanced-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
