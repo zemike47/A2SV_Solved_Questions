@@ -1,31 +1,26 @@
 class Solution:
-    def longestOnes(self, nums: List[int], k: int) -> int:
-        cnt_binary = defaultdict(int)
-        n = len(nums)
-        left = 0
-        max_len = float("-inf")
-        
+    def longestOnes(self, nums: list[int], k: int) -> int:
+        left =0 
+        count_ones = 0
+        count_zeros = 0
 
-        for right in range(n):
-            cnt_binary[nums[right]] += 1
-            zeros_count = cnt_binary[0] 
+        ans = float("-inf")
 
-            while cnt_binary[0]  > k:
-                cnt_binary[nums[left]] -= 1
-                if cnt_binary[nums[left]] == 0:
-                    del cnt_binary[nums[left]] 
-
-                left += 1
+        for right in range(len(nums)):
+            if nums[right] == 1:
+                count_ones += 1
+            else:
+                count_zeros += 1
             
-            max_len = max(max_len,right - left + 1)
-        
-        return max_len
             
-
-
-
+            while count_zeros > k:
+                if nums[left] == 0:
+                    count_zeros -= 1
+                    left += 1
+                else:
+                    count_ones -= 1
+                    left += 1
             
-
+            ans = max(ans,right - left + 1)
         
-
-        
+        return ans 
