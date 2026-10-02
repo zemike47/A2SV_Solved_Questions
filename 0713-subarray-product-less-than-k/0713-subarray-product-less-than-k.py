@@ -2,7 +2,7 @@ class Solution:
     def numSubarrayProductLessThanK(self, nums: list[int], k: int) -> int:
         if k < 2:
             return 0
-            
+
         product = 1
 
         left = 0
@@ -12,7 +12,7 @@ class Solution:
         for right in range(len(nums)):
             product *= nums[right]
 
-            while product >= k and  left < len(nums):
+            while product >= k :
                 product //= nums[left]
                 left += 1
 
