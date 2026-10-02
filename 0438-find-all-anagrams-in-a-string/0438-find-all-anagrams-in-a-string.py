@@ -1,30 +1,42 @@
 class Solution:
-    def findAnagrams(self, s: str, p: str) -> List[int]:
-        cntr_p = Counter(p)
+    def findAnagrams(self, s: str, p: str) -> list[int]:
+        if len(p) > len(s):
+            return []
 
-        k = len(p)
-        ans  = []
-        window = Counter(s[:len(p)])
+        from collections import Counter,defaultdict
 
-       
+        p_count = Counter(p)
+        window = defaultdict(int)
 
-        if cntr_p == window:
-            ans.append(0)
+        for i in range(len(p)):
+            window[s[i]] += 1
 
-      
+        result = []
+
+        if window == p_count:
+            result.append(0)
 
         left = 0
 
         for right in range(len(p),len(s)):
             window[s[right]] += 1
+
             window[s[left]] -= 1
 
             if window[s[left]] == 0:
-                del window[s[left]]
+                del window[s[left]] 
             
-            if cntr_p == window:
-                ans.append(left+1)
-
             left += 1
+
+            if window == p_count:
+                result.append(left)
+            
+            
+        return result
+
+
+
+
+
+
         
-        return ans
