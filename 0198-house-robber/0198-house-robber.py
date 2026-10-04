@@ -1,21 +1,22 @@
 class Solution:
     def rob(self, nums: list[int]) -> int:
+        
+        
         n = len(nums)
-
-
-        prev2 = 0
-        prev1 = nums[0]
+        if n == 1:
+            return nums[0]
         
-        for i in range(2,n+1):
-            skip = prev1
-            take = nums[i-1] + prev2
+        if n == 2:
+            return max(nums[0],nums[1])
 
-            current = max(take,skip)
+        dp = [0] * (n+1)
+        dp[0] = nums[0]
+        dp[1] = max(nums[0],nums[1])
 
-            prev2 = prev1
-            prev1 = current
+        for i in range(2,n):
+            take = dp[i-2] + nums[i]
+            skip = dp[i-1]
+
+            dp[i] = max(take,skip)
         
-        
-        return prev1
-
-
+        return dp[n-1]
