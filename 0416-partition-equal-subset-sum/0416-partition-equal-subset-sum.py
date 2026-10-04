@@ -1,22 +1,20 @@
 class Solution:
     def canPartition(self, nums: list[int]) -> bool:
         total = sum(nums)
-        n = len(nums)
 
         if total % 2 == 1:
             return False
         
+
         target = total // 2
 
-        dp = [[False] * (target + 1) for _ in range(n+1)]
-        dp[0][0] = True
+        dp = [False] * (target + 1)
 
-        for i in range(1,n+1):
-            num = nums[i-1]
-            for s in range(target + 1):
-                dp[i][s] = dp[i-1][s]
-
-                if num <= s:
-                    dp[i][s] = dp[i-1][s] or dp[i-1][s-num]
+        dp[0] = True   
             
-        return dp[n][target]
+        for num in nums:
+            for i in range(target,num-1,-1):
+                dp[i] = dp[i] or dp[i-num]
+            
+        return dp[target]
+    
