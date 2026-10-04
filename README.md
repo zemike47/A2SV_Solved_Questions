@@ -164,6 +164,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0722-remove-comments](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -384,6 +385,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
+| [0740-delete-and-earn](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -754,6 +756,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
+| [0740-delete-and-earn](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0877-stone-game) |
