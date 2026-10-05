@@ -135,6 +135,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0330-patching-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0377-combination-sum-iv](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -749,6 +750,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0322-coin-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
+| [0377-combination-sum-iv](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
