@@ -159,6 +159,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -575,6 +576,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0054-spiral-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
@@ -806,6 +808,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
