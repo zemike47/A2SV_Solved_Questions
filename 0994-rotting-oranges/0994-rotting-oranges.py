@@ -1,54 +1,58 @@
+from collections import deque
+
 class Solution:
-    def orangesRotting(self, grid: List[List[int]]) -> int:
-        
-        rows = len(grid)
-        cols = len(grid[0])
+    def orangesRotting(self, grid):
+        m = len(grid)
+        n = len(grid[0])
 
-        queue = deque()
-
+        q = deque()
         fresh = 0
 
-        for r in range(rows):
-            for c in range(cols):
+        # Put ALL rotten oranges into the queue.
+        # Count all fresh oranges.
+        for r in range(m):
+            for c in range(n):
                 if grid[r][c] == 2:
-                    queue.append((r,c))
-
-                if grid[r][c] == 1:
+                    q.append((r, c))
+                elif grid[r][c] == 1:
                     fresh += 1
-                    
-        directions = [(1,0),(-1,0),(0,-1),(0,1)]
 
-        if not fresh:
-            return 0
+        minutes = 0
 
-        time = -1
+        directions = [
+            (-1, 0),
+            (1, 0),
+            (0, -1),
+            (0, 1)
+        ]
 
-        while queue:
+        while q and fresh > 0:
 
-            time += 1
-            
-            for _ in range(len(queue)):
-                r,c = queue.popleft()
+            # Process exactly one BFS level = one minute
+            for _ in range(len(q)):
 
-                for dr ,dc in directions:
-                    nr = dr + r
-                    nc = dc + c
-                
+                r, c = q.popleft()
 
-                    if nr < 0 or nr >= rows or nc < 0 or nc >= cols:
+                for dr, dc in directions:
+                    nr = r + dr
+                    nc = c + dc
+
+                    # Check boundaries
+                    if nr < 0 or nr >= m or nc < 0 or nc >= n:
                         continue
 
-                    if grid[nr][nc] == 1:
-                        
-                        fresh -= 1
-                        grid[nr][nc] = 2
-                        queue.append((nr,nc))
-                
-            
+                    # Only fresh oranges can become rotten
+                    if grid[nr][nc] != 1:
+                        continue
 
-        if fresh:
+                    grid[nr][nc] = 2
+                    fresh -= 1
+
+                    q.append((nr, nc))
+
+            minutes += 1
+
+        if fresh > 0:
             return -1
-        
-        return time
 
-                    
+        return minutes
