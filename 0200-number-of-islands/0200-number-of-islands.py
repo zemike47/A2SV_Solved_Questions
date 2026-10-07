@@ -1,70 +1,26 @@
 class Solution:
-    def numIslands(self, grid):
+    def numIslands(self, grid: List[List[str]]) -> int:
+        m = len(grid)
+        n = len(grid[0])
+        visited = [[False] * n for _ in range(m)]
 
+        def dfs(r,c):
+            directions = [(-1,0),(0,1),(1,0),(0,-1)]
 
-        # def dfs(r,c):
-        #     if r >= len(grid) or c >= len(grid[0]) or r < 0 or c < 0 or grid[r][c] == "0":
-        #         return 
+            visited[r][c] = True
 
-        #     grid[r][c] = "0"
-            
-        #     dfs(r+1,c)
-        #     dfs(r-1,c)
-        #     dfs(r,c+1)
-        #     dfs(r,c-1)
+            for dr,dc in directions:
+                nr = r + dr
+                nc = c + dc
 
-        # count = 0
+                if 0 <= nr < m and 0 <= nc < n and  not visited[nr][nc] and grid[nr][nc] == '1':
+                    dfs(nr,nc)
 
-        # for r in range(len(grid)):
-        #     for c in range(len(grid[0])):
+        count = 0
+        for r in range(m):
+            for c in range(n):
+                if grid[r][c] == '1' and not visited[r][c]:
+                    dfs(r,c)
+                    count += 1
 
-        #         if grid[r][c] == "1":
-        #             dfs(r,c)
-        #             count += 1
-
-        # return count
-
-
-        rows = len(grid)
-        cols = len(grid[0])
-
-        directions = [(1,0),(-1,0),(0,1),(0,-1)]
-
-        islands = 0
-
-
-        for r in range(rows):
-            for c in range(cols):
-
-                if grid[r][c] == "0":
-                    continue
-
-                queue = deque([(r,c)])
-                grid[r][c] = "0"
-
-                islands += 1
-
-                while queue:
-                    
-                    row,col = queue.popleft()
-
-                    for dr,dc in directions:
-                        nr = row + dr
-                        nc = col + dc 
-
-                        if 0 <= nr < rows and 0 <= nc < cols:
-
-                            if grid[nr][nc] == "1":
-                                queue.append((nr,nc))
-                                grid[nr][nc] = "0"
-
-        return islands
-                            
-
-
-
-
-
-
-        
-        
+        return count
