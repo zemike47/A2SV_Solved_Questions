@@ -12,12 +12,12 @@ class Solution:
                 return 0
             
             if x % 2 == 1:
-                return 1 + countPowerValue(3 * x + 1)
+                count = 1 + countPowerValue(3 * x + 1)
             
             if x % 2 == 0:
-                return 1 + countPowerValue(x // 2)
+                count =  1 + countPowerValue(x // 2)
 
-            
+            memo[x] = count
             return count
         
         hash_map = {}
