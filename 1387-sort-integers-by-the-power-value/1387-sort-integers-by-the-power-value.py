@@ -26,9 +26,7 @@ class Solution:
 
         for x in range(lo,hi+1):
 
-            if x in hash_map:
-                hash_map[x] = count
-
+      
             count = countPowerValue(x)
             memo[x] = count
 
