@@ -210,6 +210,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1851-minimum-interval-to-include-each-query](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -666,6 +667,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1765-map-of-highest-peak](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1765-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
 | ------- |
@@ -989,6 +991,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0994-rotting-oranges](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1765-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Hash Function
