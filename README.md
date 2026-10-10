@@ -329,6 +329,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0976-largest-perimeter-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1552-magnetic-force-between-two-balls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -774,6 +775,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1162-as-far-from-land-as-possible) |
+| [1387-sort-integers-by-the-power-value](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1668-maximum-repeating-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -872,6 +874,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1387-sort-integers-by-the-power-value) |
 ## Doubly-Linked List
 |  |
 | ------- |
