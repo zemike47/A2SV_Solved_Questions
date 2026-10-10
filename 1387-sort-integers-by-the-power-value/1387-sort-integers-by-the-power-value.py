@@ -1,23 +1,36 @@
 class Solution:
     def getKth(self, lo: int, hi: int, k: int) -> int:
         
-        def countPowerValue(x):
-            count = 0
-            while x != 1:
-                if x % 2 == 0:
-                    x = x // 2
-                else:
-                    x = 3 * x  + 1
+        memo = {}
 
-                count += 1
+        def countPowerValue(x):
+            
+            if x in memo:
+                return memo[x]
+            
+            if x == 1:
+                return 0
+            
+            if x % 2 == 1:
+                return 1 + countPowerValue(3 * x + 1)
+            
+            if x % 2 == 0:
+                return 1 + countPowerValue(x // 2)
+
             
             return count
         
         hash_map = {}
 
+        
+
         for x in range(lo,hi+1):
 
+            if x in hash_map:
+                hash_map[x] = count
+
             count = countPowerValue(x)
+            memo[x] = count
 
             hash_map[x] = count
         
