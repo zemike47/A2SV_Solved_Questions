@@ -43,6 +43,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0231-power-of-two](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
@@ -864,6 +865,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0203-remove-linked-list-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
