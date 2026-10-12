@@ -903,6 +903,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0701-insert-into-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -934,6 +935,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0841-keys-and-rooms](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
@@ -957,6 +959,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0701-insert-into-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -990,6 +993,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0965-univalued-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1162-as-far-from-land-as-possible) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1765-map-of-highest-peak](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
