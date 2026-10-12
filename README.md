@@ -40,6 +40,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0150-evaluate-reverse-polish-notation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -472,6 +473,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0090-subsets-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
@@ -861,6 +863,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0143-reorder-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
