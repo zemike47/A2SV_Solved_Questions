@@ -14,22 +14,18 @@ class Solution:
         
         def dfs(node,max_val):
             nonlocal count
-            if not node.left and not node.right:
-                if node.val >= max_val:
-                    max_val = node.val
-                    count += 1
-                
-                return 
-
+            
+            if not node:
+                return
+            
             if node.val >= max_val:
-                max_val = node.val
                 count += 1
+
+            max_val = max(max_val,node.val)
+
+            dfs(node.left,max_val)
             
-            if node.left:
-                dfs(node.left,max_val)
-            
-            if node.right:
-                dfs(node.right,max_val)
+            dfs(node.right,max_val)
         
 
         dfs(root,root.val)
