@@ -7,18 +7,19 @@
 class Solution:
     def isValidBST(self, root: TreeNode | None) -> bool:
 
-        def check(node,lower,upper):
-            if not node:
-                return True
-            
+        queue = deque([(root,float("-inf"),float("inf"))])
+
+        while queue:
+            node,lower,upper = queue.popleft()
+
             if node.val <= lower or node.val >= upper:
                 return False
+            
+            if node.left:
+                queue.append((node.left,lower,node.val))
+            
+            if node.right:
+                queue.append((node.right,node.val,upper))
+            
+        return True
 
-            if not check(node.left,lower,node.val):
-                return False
-            if not check(node.right,node.val,upper):
-                return False
-        
-            return True
-        
-        return check(root,float("-inf"),float("inf"))
