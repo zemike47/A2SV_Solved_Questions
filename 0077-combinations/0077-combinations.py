@@ -1,18 +1,21 @@
 class Solution:
-    def combine(self, n: int, k: int) -> List[List[int]]:
-        
-        ans = []
+    def combine(self, n: int, k: int) -> list[list[int]]:
+        result = []
 
-        def backtracking(start,comb):
-            if len(comb) == k:
-                ans.append(comb.copy())
-                return 
+        def backtrack(start,path):
             
-            for i in range(start,n+1):
-                comb.append(i)
-                backtracking(i+1,comb)
-                comb.pop()
+            if len(path) == k:
+                result.append(path[:])
+                return
 
-        backtracking(1,[])
+            for i in range(start,n + 1):
 
-        return ans
+                path.append(i)
+
+                backtrack(i+1,path)
+
+                path.pop()
+        
+        backtrack(1,[])
+
+        return result
