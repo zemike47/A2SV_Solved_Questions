@@ -57,6 +57,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -210,6 +211,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -481,6 +483,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Counting
@@ -1036,11 +1039,13 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Enumeration
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Interactive
 |  |
@@ -1165,6 +1170,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Longest Common Subsequence
 |  |
 | ------- |
