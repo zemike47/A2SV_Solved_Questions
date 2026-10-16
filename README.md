@@ -186,6 +186,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0912-sort-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0942-di-string-match) |
+| [0953-verifying-an-alien-dictionary](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0969-pancake-sorting](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -278,6 +279,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0848-shifting-letters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0942-di-string-match) |
+| [0953-verifying-an-alien-dictionary](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1143-longest-common-subsequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -405,6 +407,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0846-hand-of-straights](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0953-verifying-an-alien-dictionary](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0997-find-the-town-judge) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
