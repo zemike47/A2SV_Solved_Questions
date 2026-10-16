@@ -145,6 +145,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0442-find-all-duplicates-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [0463-island-perimeter](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
@@ -668,6 +669,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0463-island-perimeter](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
@@ -944,6 +946,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0463-island-perimeter](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
@@ -1007,6 +1010,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0322-coin-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0463-island-perimeter](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0733-flood-fill) |
