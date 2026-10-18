@@ -391,6 +391,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0438-find-all-anagrams-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -579,6 +580,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0304-range-sum-query-2d-immutable](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0460-lfu-cache) |
 | [0641-design-circular-deque](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
@@ -814,6 +816,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0237-delete-node-in-a-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0460-lfu-cache) |
 | [0641-design-circular-deque](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -898,6 +901,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
