@@ -236,6 +236,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3527-find-the-most-common-response](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
+| [3788-maximum-score-of-a-split](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3788-maximum-score-of-a-split) |
 ## String
 |  |
 | ------- |
@@ -448,6 +449,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3788-maximum-score-of-a-split](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/3788-maximum-score-of-a-split) |
 ## Binary Search
 |  |
 | ------- |
