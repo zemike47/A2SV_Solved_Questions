@@ -8,12 +8,16 @@ class Solution:
         for x, y in points:
             dist = x ** 2 + y ** 2
 
-            heapq.heappush(heap,(dist,[x,y]))
+            heapq.heappush(heap,(-dist,[x,y]))
+
+            if len(heap) > k:
+                _, [x,y] = heapq.heappop(heap)
+
+
         
         result = []
 
-        for _ in range(k):
-            _, [x,y] = heapq.heappop(heap)
+        for _ , [x,y] in heap:
             result.append([x,y])
         
         return result
