@@ -9,4 +9,4 @@ class Solution:
         if n % 3 != 0:
             return False
         
-        return self.isPowerOfThree(n // 3)
+        return self.isPowerOfThree(n//3)
