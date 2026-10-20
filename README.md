@@ -1217,4 +1217,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
