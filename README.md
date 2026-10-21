@@ -173,6 +173,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0733-flood-fill](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0740-delete-and-earn) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0811-subdomain-visit-count](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -473,6 +474,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0633-sum-of-square-numbers](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
