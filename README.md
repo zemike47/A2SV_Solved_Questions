@@ -180,6 +180,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0832-flipping-an-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0877-stone-game) |
@@ -477,6 +478,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0704-binary-search](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -1225,4 +1227,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
