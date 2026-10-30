@@ -1,26 +1,20 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
+        prefix= defaultdict(int)
+        prefix[0] = 1
 
-        prefixsum = 0
-        prefixsum_map = defaultdict(int)
-        prefixsum_map[0] = 1
         count = 0
+        window_sum = 0
 
-        for i in range(len(nums)):
-            prefixsum += nums[i]
+        for num in nums:
 
-            if (prefixsum - k) in prefixsum_map:
-                count +=  prefixsum_map[prefixsum - k]
-            
-            prefixsum_map[prefixsum] += 1
+            window_sum += num
+
+            remaining = window_sum - k
+
+            if remaining in prefix:
+                count += prefix[remaining]
         
+            prefix[window_sum] += 1
+    
         return count
-            
-
-
-
-
-
-
-
-
