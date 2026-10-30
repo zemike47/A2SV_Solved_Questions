@@ -1,5 +1,6 @@
 class Solution:
     def findMin(self, nums: list[int]) -> int:
+        
         left = 0
         right = len(nums) - 1
 
@@ -9,6 +10,6 @@ class Solution:
             if nums[mid] > nums[right]:
                 left = mid + 1
             else:
-                right = mid
-
+                right = mid 
+        
         return nums[left]
