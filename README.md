@@ -1154,6 +1154,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | ------- |
 | [0207-course-schedule](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Shortest Path
 |  |
 | ------- |
