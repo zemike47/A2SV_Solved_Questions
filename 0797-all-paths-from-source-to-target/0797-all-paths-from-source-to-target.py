@@ -1,26 +1,21 @@
 class Solution:
     def allPathsSourceTarget(self, graph: list[list[int]]) -> list[list[int]]:
         result = []
-        path = [0]
 
-        target = len(graph) - 1
 
-        def dfs(node):
-            # Base case: reached destination
-            if node == target:
-                result.append(path[:])
-                return
-
-            # Explore all neighbors
-            for neighbor in graph[node]:
-                path.append(neighbor)
-
-                dfs(neighbor)
-
-                # Backtrack
-                path.pop()
-
-        dfs(0)
+        def dfs(i,path):
+    
+            for negh in graph[i]:
+                if negh == len(graph) - 1:
+                    path.append(negh)
+                    result.append(path.copy())
+                    path.pop()
+                else:
+                    path.append(negh)
+                    dfs(negh,path)
+                    path.pop()
+        
+        dfs(0,[0])
 
         return result
 
