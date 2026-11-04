@@ -1,27 +1,23 @@
 class Solution:
-    def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
-        
-        n = len(graph)
-        ans = []
-        path = []
-        path.append(0)
+    def allPathsSourceTarget(self, graph: list[list[int]]) -> list[list[int]]:
+        result = []
 
-        def dfs(node):
-            
-            for nei in graph[node]:
 
-                if nei == n - 1:
-                    path.append(nei)
-                    ans.append(path[:])
+        def dfs(i,path):
+    
+            for negh in graph[i]:
+                if negh == len(graph) - 1:
+                    path.append(negh)
+                    result.append(path.copy())
                     path.pop()
-                    
                 else:
-                    path.append(nei)
-                    dfs(nei)
+                    path.append(negh)
+                    dfs(negh,path)
                     path.pop()
+        
+        dfs(0,[0])
 
-        dfs(0)
-        return ans
+        return result
 
 
 
