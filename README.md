@@ -202,6 +202,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
+| [1095-find-in-mountain-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1095-find-in-mountain-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1162-as-far-from-land-as-possible](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -486,6 +487,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0744-find-smallest-letter-greater-than-target](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -1089,6 +1091,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1095-find-in-mountain-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1240,6 +1243,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1095-find-in-mountain-array) |
 ## Quicksort
 |  |
 | ------- |
