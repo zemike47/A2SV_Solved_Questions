@@ -107,6 +107,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0130-surrounded-regions](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0152-maximum-product-subarray) |
@@ -261,6 +262,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0091-decode-ways](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -313,6 +315,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -380,6 +383,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0076-minimum-window-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -791,6 +795,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0115-distinct-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0198-house-robber) |
@@ -918,6 +923,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -1261,4 +1267,8 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
