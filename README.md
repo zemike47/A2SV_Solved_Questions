@@ -83,6 +83,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0037-sudoku-solver](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0051-n-queens) |
@@ -635,6 +636,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0125-valid-palindrome) |
@@ -777,6 +779,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0062-unique-paths) |
@@ -845,6 +848,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0143-reorder-list) |
@@ -874,6 +878,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
