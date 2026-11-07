@@ -1,28 +1,32 @@
 class Solution:
-    def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
-        n = len(s)
-        res = []
-
-        words = set(wordDict)
-        
-
-        def backtrack(start,curr):
-            if start == n:
-                res.append(" ".join(curr))
+    def wordBreak(self, s: str, wordDict: list[str]) -> list[str]:
+        wordDict_set = set(wordDict)
+        sentences = []
+        def backtrack(start,sentence):
+            if start == len(s):
+                sentences.append(sentence.copy())
                 return
+            
+            for i in range(start,len(s)):
+                if s[start:i+1] in wordDict_set:
+                    sentence.append(s[start:i+1])
+                    backtrack(i+1,sentence)
+                    sentence.pop()
 
-
-            for i in range(start,n):
-                word = s[start:i+1]
-
-                if word in words:
-                    curr.append(word)
-                    backtrack(i+1,curr)
-                    curr.pop()
-
-
-        
         backtrack(0,[])
 
-        return res
+        if not sentences:
+            return  []
+        
+        ans = []
 
+        for sentence in sentences:
+            ans.append(" ".join(sentence))
+        
+        return ans
+
+
+
+
+
+        
