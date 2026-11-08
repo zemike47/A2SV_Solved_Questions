@@ -1,32 +1,40 @@
 class Solution:
-    def wordBreak(self, s: str, wordDict: list[str]) -> list[str]:
-        wordDict_set = set(wordDict)
-        sentences = []
-        def backtrack(start,sentence):
+    def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
+
+        word_set = set(wordDict)
+        result = []
+        memo = {}
+
+        def dfs(start):
+
             if start == len(s):
-                sentences.append(sentence.copy())
-                return
+                return [""]
             
-            for i in range(start,len(s)):
-                if s[start:i+1] in wordDict_set:
-                    sentence.append(s[start:i+1])
-                    backtrack(i+1,sentence)
-                    sentence.pop()
+            if start in memo:
+                return memo[start]
 
-        backtrack(0,[])
+            result = []
+            
+            for end in range(start+1,len(s)+1):
+                word = s[start:end]
 
-        if not sentences:
-            return  []
+                if word in word_set:
+                    remaing_sentences = dfs(end)
+
+                    for sentence in remaing_sentences:
+                        
+                        if sentence:
+                            result.append(word + " "+ sentence)
+                        else:
+                            result.append(word)
+            
+            memo[start] = result
+            return result
+
         
-        ans = []
-
-        for sentence in sentences:
-            ans.append(" ".join(sentence))
         
-        return ans
+        return dfs(0)
 
 
 
-
-
-        
+       
