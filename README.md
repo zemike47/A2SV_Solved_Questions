@@ -298,6 +298,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1396-design-underground-system](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1396-design-underground-system) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1528-shuffle-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -433,6 +434,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1396-design-underground-system](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1396-design-underground-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -610,6 +612,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0641-design-circular-deque](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [1396-design-underground-system](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
