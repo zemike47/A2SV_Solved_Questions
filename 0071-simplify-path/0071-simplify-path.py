@@ -4,21 +4,14 @@ class Solution:
         path = path.split("/")
         
         for p in path:
-            if p == '':
-                if not stack: 
-                    stack.append(p)
-            elif p == "..":
-                stack.pop()
-                if not stack:
-                    stack.append("")
-            elif p == ".":
+            
+            if p == "" or p == ".":
                 continue
+            elif p == "..":
+                if stack:
+                    stack.pop()
             else:
                 stack.append(p)
-        
-        if stack[-1] == '':
-            stack.pop()
-        
 
-        return "/".join(stack) if stack else "/"
+        return "/" +  "/".join(stack) 
        
