@@ -272,6 +272,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0211-design-add-and-search-words-data-structure](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0306-additive-number) |
@@ -959,6 +960,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0226-invert-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -988,6 +990,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0226-invert-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1023,6 +1026,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0226-invert-binary-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1094,6 +1098,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [0090-subsets-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/0494-target-sum) |
