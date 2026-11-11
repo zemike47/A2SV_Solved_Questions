@@ -236,6 +236,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [2215-find-the-difference-of-two-arrays](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2381-shifting-letters-ii](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -637,6 +638,7 @@ For each solved problem, the solution link and time taken are submitted to the r
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/1929-concatenation-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2390-removing-stars-from-a-string](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/zemike47/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
