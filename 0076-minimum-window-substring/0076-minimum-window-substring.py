@@ -1,46 +1,44 @@
+from collections import Counter, defaultdict
+
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        from collections import Counter,defaultdict
+        n = len(s)
 
         t_count = Counter(t)
+        
         need = len(t_count)
-        have  = 0
+        have = 0
 
+        min_len = float("inf")
         left = 0
-        best_left = 0
 
         window = defaultdict(int)
-        min_length = float("inf")
-        
+        result = ""
 
-        for right in range(len(s)):
-            window[s[right]] += 1
+        for right in range(n):
             char = s[right]
+            window[char] += 1
 
             if char in t_count and window[char] == t_count[char]:
                 have += 1
 
             while have == need:
 
-                if right - left + 1 < min_length:
-                    best_left = left
-                    min_length = right - left + 1
+                if right - left + 1 < min_len:
+                    min_len = right - left + 1
+                    result = s[left:right+1]
                 
-                window[s[left]] -= 1
-            
-                if s[left] in t_count and window[s[left]] < t_count[s[left]]:
+                left_char = s[left]
+                window[left_char] -= 1
+
+
+
+                if left_char in t_count and window[left_char] < t_count[left_char]:
                     have -= 1
-
-                left += 1
-
             
+                left += 1
         
-        if min_length == float("inf"):
-            return ""
-
-        return s[best_left:best_left + min_length]
-        
-
+        return result
 
 
 
