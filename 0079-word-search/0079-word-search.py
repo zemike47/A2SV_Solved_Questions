@@ -1,45 +1,49 @@
 class Solution:
-    def exist(self, board: List[List[str]], word: str) -> bool:
-
-        #prunning one
-        word_count = collections.Counter(word)
-
-        board_count = collections.Counter([ch for row in board for ch in row])
-
-        for ch in word:
-            if word_count[ch] > board_count[ch]:
-                return False
-
-        if board_count[word[0]] > board_count[word[-1]]:
-            word = word[::-1]
-
-
-        def dfs(r,c,index):
-
-            if index == len(word):
-                return True
-
-
-            if r < 0 or c < 0 or r >= len(board) or c >= len(board[0]):
-                return False
+    def exist(self, board: list[list[str]], word: str) -> bool:
         
-            
-            if board[r][c] != word[index]:
+        m = len(board)
+        n = len(board[0])
+
+        if  len(word) > m*n:
+            return False
+
+        visited = [[False] * n for _ in range(m)]
+        directions = [(1,0),(0,1),(-1,0),(0,-1)]
+
+
+        def dfs(r,c,i):
+
+            if board[r][c] != word[i]:
                 return False
-            
-            
-            temp = board[r][c]
-            board[r][c] = "#"
 
-            found = (dfs(r+1,c,index+1) or dfs(r-1,c,index+1) or dfs(r,c+1,index+1) or dfs(r,c-1,index+1))
-            board[r][c] = temp
+            if i == len(word) - 1:
+                return True
+        
 
-            return found 
+            visited[r][c] = True
 
-        for r in range(len(board)):
-            for c in range(len(board[0])):
-                if board[r][c] == word[0]:
-                    if dfs(r,c,0):
-                        return True
+            for dr , dc in directions:
+                nr,nc = dr + r , dc + c
 
+                if nr < 0 or nr >= m or nc < 0 or nc >= n or visited[nr][nc]:
+                    continue
+
+                if dfs(nr,nc,i+1):
+                    return True
+                
+            visited[r][c] = False   
+            return False
+
+
+        for r in range(m):
+            for c in range(n):
+                if dfs(r,c,0):
+                    return True
+        
         return False
+                
+
+
+
+
+        
