@@ -12,8 +12,7 @@ class Solution:
 
             remaining = window_sum - k
 
-            if remaining in prefix:
-                count += prefix[remaining]
+            count += prefix[remaining]
         
             prefix[window_sum] += 1
     
